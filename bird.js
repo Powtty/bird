@@ -2,8 +2,8 @@ class Bird{
     x= 100;
     y= 100;
     size= 22;
-    velocity=0.07;
-    gravity=0.130;
+    velocity=0.1;
+    gravity=0.120;
     flapVelocity=4;
     life=1;
     #image;
