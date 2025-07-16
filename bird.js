@@ -2,7 +2,7 @@ class Bird{
     x= 100;
     y= 100;
     size= 22;
-    velocity=0.1;
+    velocity=0.5;
     gravity=0.120;
     flapVelocity=4;
     life=1;
