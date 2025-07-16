@@ -1,4 +1,4 @@
-const pipeSpeed = 0.2; // valor padrão, 1 pixel por frame
+const pipeSpeed = 0.5; // valor padrão, 1 pixel por frame
 
 class Pipe{
     imageFilePipeUp="./img/pipeup_1.jpg";
